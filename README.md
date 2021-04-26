@@ -1,1 +1,1 @@
-# -LMerge
+# ILMerge
